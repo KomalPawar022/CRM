@@ -1,0 +1,9 @@
+.main{
+    background-image: url("https://static.zohocdn.com/zp5/people5/images/home/ms-bg0.60f9344acf91cb5cee8c8e02de6895ef.jpg");
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 150px;
+ 
+}
