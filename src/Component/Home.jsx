@@ -7,13 +7,13 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faShoppingCart,
   faClock,
-  faPhone,
   faUsers,
   faHandshake,
   faIndianRupee,
   faTasks,
   faTeletype,
 } from "@fortawesome/free-solid-svg-icons";
+
 export default function Home() {
   const [show, setShow] = useState(true);
 
@@ -492,16 +492,12 @@ function Admin() {
           </div>
           <div className="col-md-3">
             <div className="card" style={styles.cardTable2}>
-              <div className="card-title">
-
-              </div>
+              <div className="card-title"></div>
             </div>
           </div>
           <div className="col-md-3">
             <div className="card" style={styles.cardTable2}>
-              <div className="card-title">
-
-              </div>
+              <div className="card-title"></div>
             </div>
           </div>
         </div>
